@@ -10,7 +10,7 @@ Data presented includes student ID, student name, gender, grade, school name, an
 ## Results and Analysis
 The school board indicated that test results were altered, and needed to be updated. Focusing on Thomas High School, replacing math and reading scores with "NaN", representing "Not a Number", we were able to better analyze the data provided. 
 
-1.School District Summary
+1. School District Summary
 ![image](https://user-images.githubusercontent.com/109991916/188177140-65f5c60b-2838-4b3c-a9ef-2fd67a1f669e.png)
 
 Focusing on the 15 schools in the district, average math score dropped by .1, while the average reading score did not change. Passing math, reading, and overall passing rate dropped around 1% respectively.
