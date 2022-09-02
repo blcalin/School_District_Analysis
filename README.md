@@ -8,7 +8,8 @@ The purpose of this project was to utilize Jupyter Notebook with Python, Pandas 
 Data presented includes student ID, student name, gender, grade, school name, and reading/math scores.
 
 ## Results and Analysis
-The school board indicated that test results were altered, and needed to be updated. Focusing on Thomas High School, replacing math and reading scores with "NaN", representing "Not a Number", we were able to better analyze the data provided.  
+The school board indicated that test results were altered, and needed to be updated. Focusing on Thomas High School, replacing math and reading scores with "NaN", representing "Not a Number", we were able to better analyze the data provided. 
+
 1.School District Summary
 ![image](https://user-images.githubusercontent.com/109991916/188177140-65f5c60b-2838-4b3c-a9ef-2fd67a1f669e.png)
 
